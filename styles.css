@@ -1,0 +1,49 @@
+body {
+    color: Black;
+    background-color: #6082B6;
+}
+
+h1 {
+    color: #191970;
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    border: 5px solid #191970;
+    display: flex;
+    margin: 0px auto 0px auto;
+    width: 40%;
+}
+
+h2,
+h3,
+endP,
+lastButton {
+    display: flex;
+    justify-content: center;
+}
+
+.Chareyeong {
+    display: none;
+
+}
+
+.Yuna {
+    display: none;
+}
+
+.Ryujin {
+    display: none;
+}
+
+.Yeji {
+    display: none;
+}
+
+.lastPage {
+    display: none;
+}
+.endP{
+    text-align: center;
+}
